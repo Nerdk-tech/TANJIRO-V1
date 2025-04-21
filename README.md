@@ -1,10 +1,10 @@
-<h1 align="center">𝗣𝗔𝗧𝗥𝗢𝗡-𝗠𝗗 𝗕𝗢𝗧<br></h1>
+<h1 align="center">TANJIRO-V1 𝗕𝗢𝗧<br></h1>
 <p align="center">
 <img src="https://i.imgur.com/XnKn6H3.jpeg" height="300" />
 </p>
 
 <p align="center">
-PATRON Multi Device is a automated whatsapp bot created by <a href="https://github.com/Itzpatron" target="_blank">Patron</a> using <a href="https://github.com/adiwajshing/Baileys" target="_blank">Baileys</a> and <a href="https://github.com/nodejs" target="_blank">Nodejs And cheems v8</a>. Dont forget to give a star bro.
+TANJIRO Multi Device is a automated whatsapp bot created by <a href="https://github.com/Nerdk-tech" target="_blank">tanjiro</a> using <a href="https://github.com/adiwajshing/Baileys" target="_blank">Baileys</a> and <a href="https://github.com/nodejs" target="_blank">Nodejs And cheems v8</a>. Dont forget to give a star bro.
 </p>
 
 <p align="center">
